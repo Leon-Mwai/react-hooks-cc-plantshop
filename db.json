@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "callesa",
+      "image": "\"https://via.placeholder.com/400\"",
+      "price": 999,
+      "soldOut": false,
+      "id": 8
     }
   ]
 }
